@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaishubhpas161616/WebDeveloper/static/css/main.f54260f5.css",
+    "main.js": "/vaishubhpas161616/WebDeveloper/static/js/main.7205fd0d.js",
+    "static/js/453.1ad2e17a.chunk.js": "/vaishubhpas161616/WebDeveloper/static/js/453.1ad2e17a.chunk.js",
+    "index.html": "/vaishubhpas161616/WebDeveloper/index.html",
+    "main.f54260f5.css.map": "/vaishubhpas161616/WebDeveloper/static/css/main.f54260f5.css.map",
+    "main.7205fd0d.js.map": "/vaishubhpas161616/WebDeveloper/static/js/main.7205fd0d.js.map",
+    "453.1ad2e17a.chunk.js.map": "/vaishubhpas161616/WebDeveloper/static/js/453.1ad2e17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54260f5.css",
+    "static/js/main.7205fd0d.js"
+  ]
+}
